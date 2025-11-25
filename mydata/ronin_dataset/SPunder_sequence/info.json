@@ -1,0 +1,30 @@
+{
+  "device": "YourDevice",
+  "sequence_name": "SPunder_sequence",
+  "dataset": "your_dataset",
+  "start_frame": 0,
+  "end_frame": 309441,
+  "imu_init_gyro_bias": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "imu_acce_bias": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "imu_acce_scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "start_calibration": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sample_rate": 96.36418263953159,
+  "total_frames": 309442
+}

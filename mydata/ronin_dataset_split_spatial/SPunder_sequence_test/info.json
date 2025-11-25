@@ -1,0 +1,37 @@
+{
+  "device": "YourDevice",
+  "sequence_name": "SPunder_sequence_test",
+  "dataset": "your_dataset",
+  "start_frame": 0,
+  "end_frame": 90637,
+  "imu_init_gyro_bias": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "imu_acce_bias": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "imu_acce_scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "start_calibration": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sample_rate": 96.36418263953159,
+  "total_frames": 90638,
+  "original_start": 218804,
+  "original_end": 309442,
+  "gyro_integration_error": 10.0,
+  "grv_ori_error": 5.0,
+  "ekf_ori_error": 15.0,
+  "source_ori_error": 5.0,
+  "ori_source": "game_rv"
+}

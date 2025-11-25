@@ -1,0 +1,1 @@
+Herath, S., Furukawa, Y., Yan, H. (2022). RoNIN: Robust Neural Inertial Navigation. Federated Research Data Repository. https://doi.org/10.20383/102.0543
